@@ -39,3 +39,11 @@ nav a.selected {
 span {
   text-transform: uppercase;
 }
+
+.credit {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  color: grey;
+  font-size: 10px;
+}
