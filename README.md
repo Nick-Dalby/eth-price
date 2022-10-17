@@ -11,6 +11,7 @@ compare the eth price to USD, GBP and EUR
 **Tech used:** HTML, CSS, JavaScript
 
 Simple vanila Javascript page to fetch and display eth price data
+
 Features:
 
 - fetch() with a setInterval()
